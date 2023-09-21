@@ -58,7 +58,7 @@ private extension AppDelegate {
 ```
 
 #### Ref&Tech
-https://apiumhub.com/tech-blog-barcelona/native-dependency-injection-in-swift/
+idea: https://apiumhub.com/tech-blog-barcelona/native-dependency-injection-in-swift/
 
 #### Documentation
 Swift Subscripts: https://docs.swift.org/swift-book/documentation/the-swift-programming-language/subscripts/
